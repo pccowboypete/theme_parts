@@ -1,0 +1,187 @@
+/**
+ * END Media queries mixins
+ *
+ *
+ */
+.fontSize1 {
+  font-size: 2em;
+}
+
+@media (max-width: 768px) {
+  .fontSize1 {
+    font-size: 2em;
+  }
+}
+
+.fontSize2 {
+  font-size: 2.2em;
+}
+
+@media (max-width: 768px) {
+  .fontSize2 {
+    font-size: 2.2em;
+  }
+}
+
+.fontSize3 {
+  font-size: 2.4em;
+}
+
+@media (max-width: 768px) {
+  .fontSize3 {
+    font-size: 2.4em;
+  }
+}
+
+.fontSize4 {
+  font-size: 2.6em;
+}
+
+@media (max-width: 768px) {
+  .fontSize4 {
+    font-size: 2.6em;
+  }
+}
+
+.fontSize5 {
+  font-size: 2.7em;
+}
+
+@media (max-width: 768px) {
+  .fontSize5 {
+    font-size: 2.7em;
+  }
+}
+
+.fontSize6 {
+  font-size: 2.8em;
+}
+
+@media (max-width: 768px) {
+  .fontSize6 {
+    font-size: 2.8em;
+  }
+}
+
+.fontSize7 {
+  font-size: 3em;
+}
+
+@media (max-width: 768px) {
+  .fontSize7 {
+    font-size: 3em;
+  }
+}
+
+.fontSize8 {
+  font-size: 3.2em;
+}
+
+@media (max-width: 768px) {
+  .fontSize8 {
+    font-size: 3.2em;
+  }
+}
+
+.fontSize9 {
+  font-size: 3.4em;
+}
+
+@media (max-width: 768px) {
+  .fontSize9 {
+    font-size: 3.4em;
+  }
+}
+
+.fontSize10 {
+  font-size: 3.6em;
+}
+
+@media (max-width: 768px) {
+  .fontSize10 {
+    font-size: 3.6em;
+  }
+}
+
+.fontSize11 {
+  font-size: 3.8em;
+}
+
+@media (max-width: 768px) {
+  .fontSize11 {
+    font-size: 3.8em;
+  }
+}
+
+.fontSize12 {
+  font-size: 4em;
+}
+
+@media (max-width: 768px) {
+  .fontSize12 {
+    font-size: 4em;
+  }
+}
+
+.fontSize13 {
+  font-size: 4.2em;
+}
+
+@media (max-width: 768px) {
+  .fontSize13 {
+    font-size: 4.2em;
+  }
+}
+
+.fontSize14 {
+  font-size: 4.4em;
+}
+
+@media (max-width: 768px) {
+  .fontSize14 {
+    font-size: 4.4em;
+  }
+}
+
+.fontSize15 {
+  font-size: 4.6em;
+}
+
+@media (max-width: 768px) {
+  .fontSize15 {
+    font-size: 4.6em;
+  }
+}
+
+body {
+  font-size: 62.5%;
+  background-color: #000;
+}
+
+header {
+  background-color: #3B444B;
+  height: 250px;
+}
+
+section#main-wrapper {
+  background-color: #DBE9F4;
+}
+
+section#main-wrapper .leftbar {
+  background-color: #6E7F80;
+  height: auto;
+}
+
+section#main-wrapper .top-content {
+  background-color: #B2BEB5;
+  height: 250px;
+}
+
+section#main-wrapper .main-content {
+  background-color: #3B444B;
+}
+
+footer {
+  background-color: #B2BEB5;
+  height: 200px;
+}

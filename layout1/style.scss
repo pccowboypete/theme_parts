@@ -1,0 +1,31 @@
+@import 'imports/mixins.scss';
+@import 'imports/variables.scss';
+
+ body {
+   font-size: 62.5%;
+   background-color : #000;
+ }
+
+
+
+header{
+  background-color: $color1;
+  height :250px;
+}
+
+
+section#featured-items{
+  background-color: $color3;
+  height :550px;
+}
+
+section#section1{
+  background-color: $color4;
+  height :550px;
+}
+
+
+footer{
+  background-color: $color2 ;
+  height : 200px;
+}

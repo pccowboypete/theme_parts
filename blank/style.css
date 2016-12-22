@@ -1,0 +1,17 @@
+/**
+ * END Media queries mixins
+ *
+ *
+ */
+
+
+ body {
+   font-size: 62.5%;
+   background-color : #000;
+ }
+
+header {
+  background-color: #7CB9E8; }
+
+footer {
+  background-color: #F19CBB; }
